@@ -28,3 +28,4 @@ Este é um jogo simples de adivinhação de números, desenvolvido com HTML, CSS
 
 
 ## Como Executar o Projeto
+https://jogo-do-numero-secreto-umber-five.vercel.app/
