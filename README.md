@@ -2,6 +2,8 @@
 
 Este é um jogo simples de adivinhação de números, desenvolvido com HTML, CSS e JavaScript durante um curso da Alura. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo sistema.
 
+![Captura de tela do site](./img/print%20jogo%20nmr%20secreto.png)
+
 ## Funcionalidades
 
 - Geração aleatória de um número secreto.
